@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 
 // Create a new component that will produce some HTML.
 const App = () => {
-  return <div>Hi!</div>;
+  return <div>Hi There!</div>;
 }
 
 // Take this component's generated HTML and put it in the page.
